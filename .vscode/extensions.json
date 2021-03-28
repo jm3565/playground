@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "shyykoserhiy.git-autoconfig",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "ms-vscode.powershell"
+  ]
+}
